@@ -46,7 +46,7 @@ requirements.txt
 
 ``` bash
 git clone https://github.com/eloisapsl/DesafioTakeat.git
-cd seu-repositorio
+cd DesafioTakeat
 ```
 
 ### 2️⃣ Crie e ative o ambiente virtual
@@ -139,3 +139,4 @@ curl -X POST http://127.0.0.1:8000/classify \
      -H "Content-Type: application/json" \
      -d '{"message": "Meu pedido atrasou"}'
 ```
+
